@@ -86,3 +86,16 @@ We also want to support the ability for the game to "play" itself while the play
 - Create a badge system to mark user milestones ex. award "The Collector" for mining 1,000,000 total Cheese
 - Create a way to decrease the interval of automaticCollection
 - Prevent the IdleInterval from being started more than once
+
+## Legal Overview
+
+The content under the CodeWorks®, LLC Organization and all of the individual repos are soley intended for use by CodeWorks Instruction to deliver Educational content to CodeWorks Students.
+
+---
+
+## Copyright
+
+© CodeWorks® LLC, 2021. Unauthorized use and/or duplication of this material without express and written permission from CodeWorks, LLC is strictly prohibited.
+
+
+<img src="https://bcw.blob.core.windows.net/public/img/7815839041305055" width="125">
